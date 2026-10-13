@@ -30,7 +30,7 @@
 
 ## 💼 Experience
 
-**✈️ Passenger Assistance Agent (PRM)** · Samsic APMR, Paris-Charles de Gaulle Airport · *since Aug. 2026*
+**✈️ Passenger Assistance Agent for person with reduced mobility (PRM)** · Samsic APMR, Paris-Charles de Gaulle Airport · *since Aug. 2026*
 - Assisting passengers with reduced mobility throughout their journey (check-in, security screening, boarding), in line with airport security procedures
 - Daily communication in English with international travelers
 
