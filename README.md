@@ -40,7 +40,6 @@
 
 ## 🚀 Projects
 
-*Academic team projects at CY Tech (teams of 3)*
 
 | Project | Description | Stack |
 |---|---|---|
