@@ -34,7 +34,7 @@
 - Assisting passengers with reduced mobility throughout their journey (check-in, security screening, boarding), in line with airport security procedures
 - Daily communication in English with international travelers
 
-**📚 Volunteer Tutor** · Eurêka association, Goussainville · *since Jan. 2026*
+**📚 Volunteering** · Eurêka association, Goussainville · *since Jan. 2026*
 - Math and physics-chemistry tutoring for high school students, adapting complex concepts and tracking their progress
 - Event logistics: welcoming and coordinating 2,000+ attendees
 
