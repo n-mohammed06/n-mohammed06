@@ -25,7 +25,6 @@
 - 🔍 Passionate about **Artificial Intelligence**, **Data** and **Cybersecurity**
 - 🌱 Currently learning **AI Agents** and **Power BI**
 - 🗣️ French (native) · English (B2, working towards C1)
-- 📍 Based in Argenteuil, Île-de-France
 - ⚽ Outside of code: football, running, padel, weightlifting, cars, piano, chess and fragrances
 - 📫 Reach me at **naimmohammed2006@gmail.com**
 
