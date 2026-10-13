@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Naim 👋</h1>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=n-mohammed06.n-mohammed06&left_text=Profile%20views&left_color=%23555555&right_color=%23ff7a18" alt="Profile views" />
-  <a href="https://github.com/n-mohammed06?tab=followers"><img src="https://img.shields.io/github/followers/n-mohammed06?label=Followers&style=flat&logo=github&color=1A1033" alt="GitHub followers" /></a>
+  <img src="https://komarev.com/ghpvc/?username=n-mohammed06&label=Profile%20views&color=ff7a18&style=for-the-badge" alt="Profile views" />
+  <a href="https://github.com/n-mohammed06?tab=followers"><img src="https://img.shields.io/github/followers/n-mohammed06?label=Followers&style=for-the-badge&logo=github&color=1A1033" alt="GitHub followers" /></a>
 </p>
 
 <p align="center">
