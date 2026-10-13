@@ -3,6 +3,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=n-mohammed06&label=Profile%20views&color=ff7a18&style=for-the-badge" alt="Profile views" />
   <a href="https://github.com/n-mohammed06?tab=followers"><img src="https://img.shields.io/github/followers/n-mohammed06?label=Followers&style=for-the-badge&logo=github&color=1A1033" alt="GitHub followers" /></a>
+  <a href="mailto:naimmohammed2006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/naim-mohammed-6b39a4386/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxyZWN0IHg9IjIiIHk9IjciIHdpZHRoPSIyMCIgaGVpZ2h0PSIxNCIgcng9IjIiLz48cGF0aCBkPSJNOCA3VjVhMiAyIDAgMCAxIDItMmg0YTIgMiAwIDAgMSAyIDJ2Mk0yIDEzaDIwIi8%2BPC9zdmc%2B" alt="LinkedIn" /></a>
 </p>
 
 <p align="center">
@@ -16,7 +18,7 @@
 > - **Rhythm:** 2 weeks at school / 2 weeks in the company
 > - **Availability:** immediately
 >
-> 📩 Feel free to reach out by [email](mailto:naimmohammed2006@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/naim-mohammed-6b39a4386/)!
+> 📩 Feel free to reach out!
 
 ## 🙋‍♂️ About Me
 
@@ -40,6 +42,7 @@
 
 ## 🚀 Projects
 
+*Academic team projects at CY Tech (teams of 3)*
 
 | Project | Description | Stack |
 |---|---|---|
@@ -77,14 +80,6 @@
 ![Linux](https://img.shields.io/badge/Linux-1A1033?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![VS Code](https://img.shields.io/badge/VS%20Code-1A1033?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNOCA2bC02IDYgNiA2TTE2IDZsNiA2LTYgNiIvPjwvc3ZnPg%3D%3D)
 ![PyCharm](https://img.shields.io/badge/PyCharm-1A1033?style=for-the-badge&logo=pycharm&logoColor=21D789)
-
-## 📬 Connect with Me
-
-<p align="center">
-  <a href="mailto:naimmohammed2006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/naim-mohammed-6b39a4386/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxyZWN0IHg9IjIiIHk9IjciIHdpZHRoPSIyMCIgaGVpZ2h0PSIxNCIgcng9IjIiLz48cGF0aCBkPSJNOCA3VjVhMiAyIDAgMCAxIDItMmg0YTIgMiAwIDAgMSAyIDJ2Mk0yIDEzaDIwIi8%2BPC9zdmc%2B" alt="LinkedIn" /></a>
-</p>
 
 ---
 
